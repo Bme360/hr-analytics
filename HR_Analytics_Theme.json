@@ -1,0 +1,22 @@
+{
+  "name": "HR Analytics Professional",
+  "dataColors": [
+    "#0F6E56",
+    "#378ADD",
+    "#EF9F27",
+    "#7F77DD",
+    "#E24B4A",
+    "#1D9E75",
+    "#5DCAA5",
+    "#185FA5"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1A1A2E",
+  "tableAccent": "#0F6E56",
+  "good": "#1D9E75",
+  "neutral": "#378ADD",
+  "bad": "#E24B4A",
+  "maximum": "#0F6E56",
+  "minimum": "#E24B4A",
+  "null": "#6B7280"
+}
