@@ -78,8 +78,8 @@ The Power BI dashboard consists of 2 pages with page navigation and synchronized
 - Hire Rate by Education Level
 - Scatter Plot: Avg Days to Hire vs Hire Rate by Industry
 
-![Overview](screenshots/overview.jpg)
-![Deep Dive](screenshots/deepdive.jpg)
+![Overview](Overview.jpg)
+![Deep Dive](Deep%20Dive.jpg)
 
 ---
 
