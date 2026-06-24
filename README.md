@@ -78,6 +78,27 @@ The Power BI dashboard consists of 2 pages with page navigation and synchronized
 - Hire Rate by Education Level
 - Scatter Plot: Avg Days to Hire vs Hire Rate by Industry
 
+The Power BI dashboard consists of 2 interactive pages with built-in page navigation and synchronized slicers (Industry and Year) to allow seamless filtering.
+
+### Page 1 — Overview
+This page provides a high-level summary of recruitment volumes, processing speeds, and top-funnel efficiency metrics:
+- **Total Applications:** Displays the total number of job applications submitted in the system.
+- **Hire Rate %:** Calculates the percentage of total applications that successfully resulted in a hire.
+- **Avg Interview Score:** Shows the overall average interview score across all candidates.
+- **Avg Days to Hire:** Measures the average number of days that pass from the initial application date to the final hiring date.
+- **Referral vs No Referral:** Compares the successful hiring rates between candidates who came through a "Bring a Friend" recommendation versus those who applied independently.
+- **Met Experience Req:** Analyzes rejected candidates to show how many actually met all the experience requirements. This provides a critical insight proving that heavy market competition, rather than a skills gap, is the main driver of rejections.
+- **Recruitment Funnel:** Visualizes the entire candidate journey from application, through the interview stage, to the final hire, showing exact candidate volumes at each step.
+- **Monthly Trend:** Features a dual-line chart plotting monthly application volume against the absolute number of hires, helping stakeholders identify seasonal patterns and trends over time.
+
+### Page 2 — Candidate & Process Analysis
+This page drills down into operational efficiency, geographical trends, and candidate demographics:
+- **Interviewer Pass Rate:** Displays a matrix table of each interviewer's individual pass rate alongside their average assigned score, making it easy to detect interviewer alignment or bias.
+- **Count by Region:** Illustrates the geographic distribution of applicants across major regions (Center, North, Jerusalem, and South).
+- **Hire Rate by Education:** Shows the successful hiring rate breakdown based on the candidates' highest level of education (from High School to PhD).
+- **Avg Days to Hire by Industry (Scatter Plot):** Plots each industry as a distinct data point where the X-axis represents hiring speed and the Y-axis represents the hiring success rate. This allows stakeholders to instantly identify which industries are fast and efficient versus those that are slow with low placement rates.
+
+  
 ![Overview](Overview.jpg)
 ![Deep Dive](Deep%20Dive.jpg)
 
